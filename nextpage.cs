@@ -22,7 +22,7 @@ public class nextpage : MonoBehaviour
     public void chatingFiled(){
         spo1.SetActive(false);
         spo2.SetActive(false);
-        spo3.SetActive(false);
+        spo3.SetActive(false);  
         sco.SetActive(true);
     }
 }
